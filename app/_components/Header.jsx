@@ -7,7 +7,6 @@ const Header = () => {
         <h3>Header</h3>
         <Link href="/">HomePage</Link>
         <Link href="/blog">Blog</Link>
-        <SearchBar/>
     </header>
   )
 }
